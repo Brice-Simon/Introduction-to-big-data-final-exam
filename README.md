@@ -23,8 +23,9 @@ Python (VS Code) – for data cleaning, merging, filtering, and forecasting
 
 Pandas, Matplotlib, Scikit-learn – for manipulation and prediction
 
-Power BI – for dashboards and visual storytelling
+Power BI – for dashboards and visual storytelling and this is the power bi file : 
 and the following are screenshots to explain and show the steps:
+
 <img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/054e0420-2a5d-4140-b13c-e2767d599abd" />
 <img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/910f185c-c983-48ee-9496-8c2de400f8cf" />
 <img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/bddcff5b-5ffd-42df-9dab-b495ffaa1004" />
